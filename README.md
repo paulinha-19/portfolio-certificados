@@ -1,10 +1,4 @@
-# Paula Soares
-
-:house:   São Luís/MA <br>
-:iphone:   (98) 98181 - 4616 <br>
-:envelope:  paulafabianasoares@gmail.com
-
-Meu nome é Paula Soares e sou estudante de Engenharia da Computação a procura de experiência em desenvolvimento Web. 
+# 👋 Olá!
 
 <a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -24,6 +18,14 @@ Meu nome é Paula Soares e sou estudante de Engenharia da Computação a procura
 <a target="_blank" href="https://fb.com/aryxb">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
+:house:   São Luís/MA <br>
+:iphone:   (98) 98181 - 4616 <br>
+:envelope:  paulafabianasoares@gmail.com
+
+Meu nome é Paula Soares e sou estudante de Engenharia da Computação a procura de experiência em desenvolvimento Web. 
+
+
 
 ## Me ajude!
 Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
