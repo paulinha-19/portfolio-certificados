@@ -7,19 +7,19 @@
 Meu nome é Paula Soares e sou estudante de Engenharia da Computação a procura de experiência na área de desenvolvimento web front-end. 
 
 ## Projetos desenvolvidos
-### Foodbox
+#### Foodbox
 Acesse o [link](https://paulinha-19.github.io/foodbox/)
 
-### Previsão de clima
+#### Previsão de clima
 Acesse o [link](https://https://paulinha-19.github.io/previsao-clima/)
 
-### Quiz
+#### Quiz
 Acesse o [link](https://paulinha-19.github.io/quiz/)
 
-### Relógio Digital
+#### Relógio Digital
 Acesse o [link](https://paulinha-19.github.io/relogio-digital/)
 
-### Drum keyboard
+#### Drum keyboard
 Acesse o [link](https://paulinha-19.github.io/drum-keyboard/)
 
 ## Em desenvolvimento
