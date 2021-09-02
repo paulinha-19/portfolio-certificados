@@ -8,19 +8,19 @@ Meu nome é Paula Soares e sou estudante de Engenharia da Computação a procura
 
 ## Projetos desenvolvidos
 ### Foodbox
-Este site foi construído usando o [GitHub Pages](paulinha-19.github.io/foodbox/)
+Acesso o [link](https://paulinha-19.github.io/foodbox/)
 
 ### Previsão de clima
-Este site foi construído usando o [GitHub Pages](paulinha-19.github.io/previsao-clima/)
+Este site foi construído usando o [link](https://https://paulinha-19.github.io/previsao-clima/)
 
 ### Quiz
-Este site foi construído usando o [GitHub Pages] (paulinha-19.github.io/quiz/)
+Este site foi construído usando o [link] (https://paulinha-19.github.io/quiz/)
 
 ### Relógio Digital
-Este site foi construído usando o [GitHub Pages] (paulinha-19.github.io/relogio-digital/)
+Este site foi construído usando o [link] (https://paulinha-19.github.io/relogio-digital/)
 
 ### Drum keyboard
-Este site foi construído usando o [GitHub Pages] (paulinha-19.github.io/drum-keyboard/)
+Este site foi construído usando o [link] (https://paulinha-19.github.io/drum-keyboard/)
 
 ## Em desenvolvimento
 
