@@ -8,23 +8,23 @@ Meu nome é Paula Soares e sou estudante de Engenharia da Computação a procura
 
 ## Projeto Driven
 Projeto desenvolvido no 1º evento tech driven.
-- Foodbox
+### Foodbox
 Acesse o [link](https://paulinha-19.github.io/foodbox/)
 
 ## 7 Projetos em 7 Dias - Edição: Javascript
 Projetos em Javascript puro feitos durante o desafio 7 Projetos em 7 Dias.
-- Previsão de clima
+### Previsão de clima
 Acesse o [link](https://paulinha-19.github.io/previsao-clima/)
-- Quiz
+### Quiz
 Acesse o [link](https://paulinha-19.github.io/quiz/)
-- Relógio Digital
+### Relógio Digital
 Acesse o [link](https://paulinha-19.github.io/relogio-digital/)
-- Drum keyboard
+### Drum keyboard
 Acesse o [link](https://paulinha-19.github.io/drum-keyboard/)
 
 ## Projeto em desenvolvimento
 Aguarde...
-- Tour virtual: Uma visita a distância
+### Tour virtual: Uma visita a distância
 Projeto em desenvolvimento para o trabalho de conclusão de curso. Tem por objetivo criar uma plataforma de visitação virtual aos ambientes e projetos desenvolvidos na UEMA, Campus Paulo VI. 
 
 
