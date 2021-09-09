@@ -11,7 +11,7 @@ Meu nome é Paula Soares e sou estudante de Engenharia da Computação a procura
 Acesse o [link](https://paulinha-19.github.io/foodbox/)
 
 #### Previsão de clima
-Acesse o [link](https://https://paulinha-19.github.io/previsao-clima/)
+Acesse o [link](https://paulinha-19.github.io/previsao-clima/)
 
 #### Quiz
 Acesse o [link](https://paulinha-19.github.io/quiz/)
@@ -24,7 +24,7 @@ Acesse o [link](https://paulinha-19.github.io/drum-keyboard/)
 
 ## Em desenvolvimento
 
-### Sisteema web
+### Sistema web
 
 - Tour virtual: Uma visita a distância
 
