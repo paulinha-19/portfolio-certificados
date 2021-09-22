@@ -6,7 +6,7 @@
 
 Meu nome é Paula Soares e sou estudante de Engenharia da Computação a procura de experiência na área de desenvolvimento web front-end. 
 
-## Projeto Driven
+## 1º evento tech driven
 Projeto desenvolvido no 1º evento tech driven.
 ### Foodbox
 Acesse o [link](https://paulinha-19.github.io/foodbox/)
