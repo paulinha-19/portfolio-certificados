@@ -15,23 +15,23 @@ Meu nome é Paula Soares e sou estudante de Engenharia da Computação a procura
 
 ### Foodbox
 Projeto desenvolvido no 1º evento tech driven. <br>
-Acesse o do projeto [aqui](https://paulinha-19.github.io/foodbox/)
+Acesse o projeto [aqui](https://paulinha-19.github.io/foodbox/)
 
 ### Previsão de clima
 Projetos em Javascript puro feitos durante o desafio 7 Projetos em 7 Dias. Bonieky.
-Acesse o [link](https://paulinha-19.github.io/previsao-clima/)
+Acesse o projeto [aqui](https://paulinha-19.github.io/previsao-clima/)
 
 ### Quiz
 Projetos em Javascript puro feitos durante o desafio 7 Projetos em 7 Dias. Bonieky.
-Acesse o [link](https://paulinha-19.github.io/quiz/)
+Acesse o projeto [aqui](https://paulinha-19.github.io/quiz/)
 
 ### Relógio Digital
 Projetos em Javascript puro feitos durante o desafio 7 Projetos em 7 Dias. Bonieky.
-Acesse o [link](https://paulinha-19.github.io/relogio-digital/)
+Acesse o projeto [aqui](https://paulinha-19.github.io/relogio-digital/)
 
 ### Drum keyboard
 Projetos em Javascript puro feitos durante o desafio 7 Projetos em 7 Dias. Bonieky.
-Acesse o [link](https://paulinha-19.github.io/drum-keyboard/)
+Acesse o projeto [aqui](https://paulinha-19.github.io/drum-keyboard/)
 
 ## Projeto em desenvolvimento
 - Linguagens e ferramentas
