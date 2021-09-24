@@ -14,8 +14,8 @@ Meu nome é Paula Soares e sou estudante de Engenharia da Computação a procura
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 ### Foodbox
-Projeto desenvolvido no 1º evento tech driven.
-Acesse o [link](https://paulinha-19.github.io/foodbox/)
+Projeto desenvolvido no 1º evento tech driven. <br>
+Acesse o do projeto [aqui](https://paulinha-19.github.io/foodbox/)
 
 ### Previsão de clima
 Projetos em Javascript puro feitos durante o desafio 7 Projetos em 7 Dias. Bonieky.
