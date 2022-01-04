@@ -8,7 +8,7 @@ Meu nome é Paula Soares e sou estudante de Engenharia da Computação a procura
 - Confira meu portfólio no "about"
 
 ## Mini projetos desenvolvidos
-- Linguagens e ferramentas
+- Linguagens e ferramentas utilizadas
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -39,8 +39,8 @@ Projetos em Javascript puro feitos durante o desafio 7 Projetos em 7 Dias. Bonie
 Acesse o projeto [aqui](https://paulinha-19.github.io/drum-keyboard/) <br>
 Code https://github.com/paulinha-19/drum-keyboard
 
-## Projeto em desenvolvimento
-- Linguagens e ferramentas
+## Projetos em desenvolvimento
+- Linguagens e ferramentas utilizadas
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -53,6 +53,17 @@ Code https://github.com/paulinha-19/drum-keyboard
 
 ### Tour virtual: Uma visita a distância
 Projeto em desenvolvimento para o trabalho de conclusão de curso. Tem por objetivo criar uma plataforma de visitação virtual aos ambientes e projetos desenvolvidos na UEMA, Campus Paulo VI. 
+
+
+### Crud 
+Projeto em desenvolvimento para aprimoramento das tecnologicas citadas abaixo. O objetivo é criar um sistema de login/logout com perfil do usuário e um crud de produtos. 
+- Linguagens e ferramentas utilizadas
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xampp/xampp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/phpmyadmin/phpmyadmin.png"></code>
 
 ## Me ajude!
 Encontrou algum erro na organização? Sentiu falta de algo? Abre uma issue! <br>
