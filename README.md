@@ -20,22 +20,22 @@ Acesse o projeto [aqui](https://paulinha-19.github.io/foodbox/) <br>
 Code https://github.com/paulinha-19/foodbox
 
 ### Previsão de clima
-Projetos em Javascript puro feitos durante o desafio 7 Projetos em 7 Dias. Bonieky.
+Projeto em Javascript puro feito durante o desafio 7 Projetos em 7 Dias. Bonieky.
 Acesse o projeto [aqui](https://paulinha-19.github.io/previsao-clima/) <br>
 Code https://github.com/paulinha-19/previsao-clima
 
 ### Quiz
-Projetos em Javascript puro feitos durante o desafio 7 Projetos em 7 Dias. Bonieky.
+Projeto em Javascript puro feito durante o desafio 7 Projetos em 7 Dias. Bonieky.
 Acesse o projeto [aqui](https://paulinha-19.github.io/quiz/) <br>
 Code https://github.com/paulinha-19/quiz
 
 ### Relógio Digital
-Projetos em Javascript puro feitos durante o desafio 7 Projetos em 7 Dias. Bonieky.
+Projeto em Javascript puro feito durante o desafio 7 Projetos em 7 Dias. Bonieky.
 Acesse o projeto [aqui](https://paulinha-19.github.io/relogio-digital/)  <br>
 Code https://github.com/paulinha-19/relogio-digital
 
 ### Drum keyboard
-Projetos em Javascript puro feitos durante o desafio 7 Projetos em 7 Dias. Bonieky.
+Projeto em Javascript puro feito durante o desafio 7 Projetos em 7 Dias. Bonieky.
 Acesse o projeto [aqui](https://paulinha-19.github.io/drum-keyboard/) <br>
 Code https://github.com/paulinha-19/drum-keyboard
 
