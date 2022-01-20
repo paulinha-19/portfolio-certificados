@@ -39,6 +39,12 @@ Projetos em Javascript puro feitos durante o desafio 7 Projetos em 7 Dias. Bonie
 Acesse o projeto [aqui](https://paulinha-19.github.io/drum-keyboard/) <br>
 Code https://github.com/paulinha-19/drum-keyboard
 
+### Contador
+Projetos em Javascript puro feitos durante o bootcamp Inter da DIO.
+Acesse o projeto [aqui](https://paulinha-19.github.io/contador-js/) <br>
+Code https://github.com/paulinha-19/contador-js
+
+
 ## Projetos em desenvolvimento
 - Linguagens e ferramentas utilizadas
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
