@@ -40,7 +40,7 @@ Acesse o projeto [aqui](https://paulinha-19.github.io/drum-keyboard/) <br>
 Code https://github.com/paulinha-19/drum-keyboard
 
 ### Contador
-Projetos em Javascript puro feitos durante o bootcamp Inter da DIO.
+Projeto em Javascript puro feitos durante o bootcamp Inter da DIO.
 Acesse o projeto [aqui](https://paulinha-19.github.io/contador-js/) <br>
 Code https://github.com/paulinha-19/contador-js
 
