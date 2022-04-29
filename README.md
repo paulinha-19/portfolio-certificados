@@ -36,15 +36,15 @@ Projeto em Reactjs criado como desafio para uma vaga Front-end dev Jr. O objetiv
 Code https://github.com/paulinha-19/crud-pacientes
 
 ### TodoList
-O objetivo foi desenvolver uma Todo List com adição e remoção de tarefas utilizando React, porém, decidi incrementar o projeto com as opções: alterar, concluir tarefa e feedback das tarefas finalizadas, em aberto e total.
+O objetivo foi desenvolver uma Todo List com adição e remoção de tarefas utilizando React, porém, decidi incrementar o projeto com as opções: alterar, concluir tarefa e feedback das tarefas finalizadas, em aberto e total. <br>
 Code https://github.com/paulinha-19/todo-list-react
 
 ### Requisição da API TMDB
-O objetivo foi consumir a API TMDB através do axios e useQuery.
+O objetivo foi consumir a API TMDB através do axios e useQuery. <br>
 Code https://github.com/paulinha-19/movies-series-tmdb
 
 ### TODOFLIX
-Projeto em desenvolvimento que tem como objetivo listar filmes (favoritos, adiconados, já vistos), adicionar/Editar filmes, adicionar/remover do favoritos, pesquisar filmes.
+Projeto em desenvolvimento que tem como objetivo listar filmes (favoritos, adicionados, já vistos), adicionar/editar filmes, adicionar/remover dos favoritos, pesquisar filmes. <br>
 Code https://github.com/paulinha-19/projeto-final-mod2
 
 ## Extra
