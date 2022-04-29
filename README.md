@@ -32,7 +32,7 @@ Code https://github.com/paulinha-19/quiz
 ## Projetos em Reactjs
 
 ### Clinica ACME
-Projeto em Reactjs criado como desafio para uma vaga Front-end dev Jr. O objetivo foi desenvolver uma solução web para consultar e cadastrar pacientes.
+Projeto em Reactjs criado como desafio para uma vaga Front-end dev Jr. O objetivo foi desenvolver uma solução web para consultar e cadastrar pacientes. <br>
 Code https://github.com/paulinha-19/crud-pacientes
 
 ### TodoList
