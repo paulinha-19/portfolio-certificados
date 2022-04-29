@@ -5,7 +5,7 @@
 :envelope:  paulafabianasoares@gmail.com
 
 Meu nome é Paula Soares e sou formada em Engenharia da Computação e estou a procura de experiência na área de desenvolvimento web front-end Jr. <br>
-- Confira meu portfólio no "about"
+- Confira meu portfólio no seção "about"
 
 ## Mini projetos desenvolvidos
 - Linguagens e ferramentas utilizadas
@@ -29,23 +29,25 @@ Projeto em Javascript puro feito durante o desafio 7 Projetos em 7 Dias. Bonieky
 Acesse o projeto [aqui](https://paulinha-19.github.io/quiz/) <br>
 Code https://github.com/paulinha-19/quiz
 
-### Relógio Digital
-Projeto em Javascript puro feito durante o desafio 7 Projetos em 7 Dias. Bonieky.
-Acesse o projeto [aqui](https://paulinha-19.github.io/relogio-digital/)  <br>
-Code https://github.com/paulinha-19/relogio-digital
+## Projetos em Reactjs
 
-### Drum keyboard
-Projeto em Javascript puro feito durante o desafio 7 Projetos em 7 Dias. Bonieky.
-Acesse o projeto [aqui](https://paulinha-19.github.io/drum-keyboard/) <br>
-Code https://github.com/paulinha-19/drum-keyboard
+### Clinica ACME
+Projeto em Reactjs criado como desafio para uma vaga Front-end dev Jr. O objetivo foi desenvolver uma solução web para consultar e cadastrar pacientes.
+Code https://github.com/paulinha-19/crud-pacientes
 
-### Contador
-Projeto em Javascript puro feitos durante o bootcamp Inter da DIO.
-Acesse o projeto [aqui](https://paulinha-19.github.io/contador-js/) <br>
-Code https://github.com/paulinha-19/contador-js
+### TodoList
+O objetivo foi desenvolver uma Todo List com adição e remoção de tarefas utilizando React, porém, decidi incrementar o projeto com as opções: alterar, concluir tarefa e feedback das tarefas finalizadas, em aberto e total.
+Code https://github.com/paulinha-19/todo-list-react
 
+### Requisição da API TMDB
+O objetivo foi consumir a API TMDB através do axios e useQuery.
+Code https://github.com/paulinha-19/movies-series-tmdb
 
-## Projetos em desenvolvimento
+### TODOFLIX
+Projeto em desenvolvimento que tem como objetivo listar filmes (favoritos, adiconados, já vistos), adicionar/Editar filmes, adicionar/remover do favoritos, pesquisar filmes.
+Code https://github.com/paulinha-19/projeto-final-mod2
+
+## Extra
 - Linguagens e ferramentas utilizadas
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -56,20 +58,8 @@ Code https://github.com/paulinha-19/contador-js
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-
 ### Tour virtual: Uma visita a distância
-Projeto em desenvolvimento para o trabalho de conclusão de curso. Tem por objetivo criar uma plataforma de visitação virtual aos ambientes e projetos desenvolvidos na UEMA, Campus Paulo VI. 
-
-
-### Crud 
-Projeto em desenvolvimento para aprimoramento das tecnologicas citadas abaixo. O objetivo é criar um sistema de login/logout com perfil do usuário e um crud de produtos. 
-- Linguagens e ferramentas utilizadas
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xampp/xampp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/phpmyadmin/phpmyadmin.png"></code>
+Projeto desenvolvido para o trabalho de conclusão de curso. Tem por objetivo criar uma plataforma de visitação virtual aos ambientes e projetos desenvolvidos na UEMA, Campus Paulo VI. 
 
 ## Me ajude!
 Encontrou algum erro na organização? Sentiu falta de algo? Abre uma issue! <br>
