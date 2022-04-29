@@ -35,6 +35,10 @@ Code https://github.com/paulinha-19/quiz
 Projeto em Reactjs criado como desafio para uma vaga Front-end dev Jr. O objetivo foi desenvolver uma solução web para consultar e cadastrar pacientes. <br>
 Code https://github.com/paulinha-19/crud-pacientes
 
+### TODOFLIX
+Projeto em desenvolvimento que tem como objetivo listar filmes (favoritos, adicionados, já vistos), adicionar/editar filmes, adicionar/remover dos favoritos, pesquisar filmes. <br>
+Code https://github.com/paulinha-19/projeto-final-mod2
+
 ### TodoList
 O objetivo foi desenvolver uma Todo List com adição e remoção de tarefas utilizando React, porém, decidi incrementar o projeto com as opções: alterar, concluir tarefa e feedback das tarefas finalizadas, em aberto e total. <br>
 Code https://github.com/paulinha-19/todo-list-react
@@ -43,9 +47,6 @@ Code https://github.com/paulinha-19/todo-list-react
 O objetivo foi consumir a API TMDB através do axios e useQuery. <br>
 Code https://github.com/paulinha-19/movies-series-tmdb
 
-### TODOFLIX
-Projeto em desenvolvimento que tem como objetivo listar filmes (favoritos, adicionados, já vistos), adicionar/editar filmes, adicionar/remover dos favoritos, pesquisar filmes. <br>
-Code https://github.com/paulinha-19/projeto-final-mod2
 
 ## Extra
 - Linguagens e ferramentas utilizadas
