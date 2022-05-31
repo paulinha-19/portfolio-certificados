@@ -4,7 +4,7 @@
 :iphone:   (98) 98181 - 4616 <br>
 :envelope:  paulafabianasoares@gmail.com
 
-Meu nome é Paula Soares e sou formada em Engenharia da Computação e estou a procura de experiência na área de desenvolvimento web front-end Jr. <br>
+Meu nome é Paula Soares, sou formada em Engenharia da Computação e curto desenvolvimento front-end. <br>
 - Confira meu portfólio no seção "about"
 
 ## Mini projetos desenvolvidos
